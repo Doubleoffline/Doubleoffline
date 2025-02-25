@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
 
-- 📝 I regularly write articles on [https://zeropedia.info/](https://zeropedia.info/)
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **double.dev.19@gmail.com**
