@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Double</h1>
 <h3 align="center">A new Up Coming Hacker</h3>
 
-- 🔭 I’m currently working on [zeropedia.info](https://zeropedia.info/)
+- 🔭 I’m currently working on [phantompanel.com](https://phantompanel.com/)
 
 - 🌱 I’m currently learning **hacking,python and more**
 
